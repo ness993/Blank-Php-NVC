@@ -9,6 +9,6 @@ class Home extends Controller
         $user->name=$name;
         echo $user->name;
     }
-    
+    #stao si na 7 of 9
     
 }
